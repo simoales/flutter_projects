@@ -1,8 +1,4 @@
-# hellopl
+# Hello World Travel
 
-A new Flutter project.
+The first project of the "Flutter Projects" book.
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
